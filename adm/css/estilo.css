@@ -1,0 +1,18 @@
+@media screen and (max-width: 768px) {
+	.atualizar {
+		position: unset !important;
+		margin-top: 1rem;
+	}
+}
+
+#arquivoImagem {
+	cursor: pointer !important;
+}
+
+table {
+	min-width: 800px;
+}
+
+.titulo {
+	min-width: 10rem;
+}
